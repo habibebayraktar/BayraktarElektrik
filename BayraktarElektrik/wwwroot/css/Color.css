@@ -1,0 +1,21 @@
+﻿.blackgraound {
+    background-color:black;
+}
+.txtColor{
+    color:white;
+}
+.txtStil{
+    font-weight:bold;
+}
+.tasarim {
+    padding-top: 10.5rem;
+    padding-bottom: 6rem;
+    text-align: center;
+    color: white;
+    background-image: url(/assets/img/about/elektrik.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+ 
+}
+
